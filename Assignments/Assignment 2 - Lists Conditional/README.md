@@ -7,3 +7,7 @@
 black).
 5. Render a list of CharComponents where each CharComponent receives a different letter of the entered text(in the initial input field) as a prop.
 6. When you click a CharComponent, it should be removed from the entered text.
+
+# How to use
+
+Replace src file's contents with one in a fully set-up React environment
