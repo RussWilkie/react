@@ -1,7 +1,6 @@
 # Lab Overview
 
-This lab works with Restful APIs and Axios request. At the end we programmed various GET and POST Request from
-servers and manipulating the data to build a blog.
+Labs are part of the Udemy Course which walks through different concepts on React. 
 
 # How to use
 
